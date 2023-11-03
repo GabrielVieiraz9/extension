@@ -1,6 +1,6 @@
 <?php
 
-$content = file_get_contents('H:/Desktop_G/Importante/ExerciciosGitHub/Chuva/exercicios-2023/php/assets/origin.html');
+$content = file_get_contents('Especifique o local do diretório do arquivo html aqui');
 
 $dom = new DOMDocument();
 $dom->loadHTML($content);
