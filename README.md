@@ -22,4 +22,4 @@ Este script PHP permite a análise de páginas da web em busca de informações 
    ```bash
    php analisar.php
 
-6. Há um arquivo de imagem explicando o funcionamento do foreach e como ele insere as informações em uma variável de tipo ARRAY.
+Dica: Há um arquivo de pdf explicando o funcionamento do foreach e como ele insere as informações em uma variável de tipo ARRAY.
